@@ -6,7 +6,7 @@ Example Swift project implementing navigation menu bar. The project shows off a 
 
 [Menu Bar](https://github.com/stellz/MenuBar)
 
-* Swift:
+* Example Usage:
 ```swift
 // MARK: - Menu bar initialisation
 
